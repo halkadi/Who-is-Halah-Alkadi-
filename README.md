@@ -1,4 +1,4 @@
 # Who-is-Halah-Alkadi-
-[![Header](https://raw.githubusercontent.com/Who-is-Halah-Alkadi-/halkadi/halkadi/Twitter Header_1.png "Header")]
-
+#[![Header](https://raw.githubusercontent.com/Who-is-Halah-Alkadi-/halkadi/main/Twitter_Header_1.png)]
+Hey everyone,
 In this repository I will talk about my qualification history, work and research experience, and why am I in GitHub. 
